@@ -36,3 +36,11 @@ My name is Bartłomiej Skorobohaty. I have been playing the violin since I was a
 # Groups on Linkedin <br>
 * Software Testing & Automation <br>
 * Testerzy <br>
+# Recommended blogs <br>
+* [https://miroslawzelent.pl/](https://miroslawzelent.pl/) <br>
+* [https://testuj.pl/](https://testuj.pl/) <br>
+* [https://remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl) <br>
+* [http://testerka.pl/](http://testerka.pl/) <br>
+* [https://testerzy.pl/](https://testerzy.pl/) <br>
+# Webinars
+* #TestujTalks: Ile naprawdę wiesz o testowaniu? <br>
