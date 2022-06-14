@@ -42,5 +42,6 @@ My name is Bartłomiej Skorobohaty. I have been playing the violin since I was a
 * [https://remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl) <br>
 * [http://testerka.pl/](http://testerka.pl/) <br>
 * [https://testerzy.pl/](https://testerzy.pl/) <br>
+* [https://odlaikadoautomatyka.pl/blog/](https://odlaikadoautomatyka.pl/blog/) <br>
 # Webinars
 * #TestujTalks: Ile naprawdę wiesz o testowaniu? <br>
