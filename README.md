@@ -48,3 +48,5 @@ My name is Bartłomiej Skorobohaty. I have been playing the violin since I was a
 # Webinars
 * #TestujTalks: Ile naprawdę wiesz o testowaniu? <br>
 * #Zeplin’s Recent Releases webinar <br>
+* #Testuj.pl: Jak zacząć automatyzować testy? <br>
+* #Testuj.pl: Podstawy automatyzacji testów. <br>
