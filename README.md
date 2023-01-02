@@ -52,3 +52,4 @@ My name is Bartłomiej Skorobohaty. I have been playing the violin since I was a
 * # [Testuj.pl: Wprowadzenie do automatyzacji testów.](https://www.youtube.com/watch?v=AIzWk9HG7sg) <br>
 * # [Podstawy Selenium WebDriver](https://www.youtube.com/watch?v=SDxX4S84pmY) <br>
 * # [Pierwszy test automatyczny](https://www.youtube.com/watch?v=qgVHlhK4xVw) <br>
+* # [Katalon Studio for Complete Beginners](https://www.youtube.com/watch?v=lcUgrciUCPg) <br>
