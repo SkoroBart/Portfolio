@@ -1,7 +1,7 @@
 # Portfolio
 My Tester's Portfolio
 # About Me
-My name is Bartłomiej Skorobohaty. I have been playing the violin since I was a child. I graduated with honors from the Academy of Music in Bydgoszcz in Poland. Music will always be my passion, but now it's time to change my professional life. I decided to change industries and enter the IT world. I completed the Manual Tester course. I obtained the ISTQB certificate and now I currently work at Fitatu in Vitalia Team as a Manual Tester.
+My name is Bartłomiej Skorobohaty. I have been playing the violin since I was a child. I graduated with honors from the Academy of Music in Bydgoszcz in Poland. Music will always be my passion, but now it's time to change my professional life. I decided to change industries and enter the IT world. I completed the Manual Tester course. I obtained the ISTQB certificate and now I currently work at Fitatu in Vitalia Team as a Manual Tester but I'm starting to try my hand at test automation.
 # Tools
 * [VLC](https://www.videolan.org/) - Screen capture software/Music and Video Player <br>
 * [Postman](https://www.postman.com/) - REST API Testing <br>
