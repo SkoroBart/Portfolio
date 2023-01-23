@@ -31,7 +31,7 @@ My name is Bartłomiej Skorobohaty. I have been playing the violin since I was a
 # Courses <br>
 * [CODE:ME](https://codeme.pl/) - Fundamentals of Testing in Practice <br>
 * [Pasja Informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale) - Kurs MySQL <br>
-* [testelka.pl](https://testelka.pl/kurs/java-dla-testerow/) - Kurs JAVA dla testerów <br>
+* [Udemy](https://www.udemy.com/course/cypress-od-podstaw/) - Cypress od podstaw - Automatyzacja testów <br>
 # Books <br>
 * Radosław Smilgin - Zawód tester <br>
 * Larry Rockoff - Język SQL <br>
