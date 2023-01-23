@@ -36,6 +36,7 @@ My name is Bartłomiej Skorobohaty. I have been playing the violin since I was a
 * Radosław Smilgin - Zawód tester <br>
 * Larry Rockoff - Język SQL <br>
 * Waldemar Szafraniec/Dorota Gabor - ABC Testowania Oprogramowania <br>
+* Marijn Haverbeke - Zrozumień JavaScript <br>
 # Groups on Linkedin <br>
 * Software Testing & Automation <br>
 * Testerzy <br>
