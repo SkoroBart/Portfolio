@@ -10,6 +10,7 @@ My name is Bartłomiej Skorobohaty. I have been playing the violin since I was a
 * [TestLink](https://testlink.org/) - Open Source Test Management <br>
 * [ClickUp](https://clickup.com/) - Project Management Tool <br>
 * [Zeplin](https://zeplin.io/) - An accessible workspace for non-designers <br>
+* [Cypress](https://www.cypress.io/) - Open source framework for testing, mainly E2E based on the Node.js platform <br>
 * DevTools <br>
 # Technological skills
 * Operating Systems: <br>
