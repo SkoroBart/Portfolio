@@ -1,8 +1,10 @@
 # Portfolio
 My Tester's Portfolio
 # About Me
-My name is Bartłomiej Skorobohaty. I have been playing the violin since I was a child. I graduated with honors from the Academy of Music in Bydgoszcz in Poland. Music will always be my passion, but now it's time to change my professional life. I decided to change industries and enter the IT world. I completed the Manual Tester course. I obtained the ISTQB certificate and since September 2022, I have been working at Fitatu as the only tester in the team. I'm currently writing automated tests in Cypress.
-* [VLC](https://www.videolan.org/) - Screen capture software/Music and Video Player <br>
+I am an automation tester with a passion for music and photography, and proficiency in using various types of software. In the company where I currently work, I independently created a test approach system and developed automated test implementations from scratch. Thanks to my interpersonal skills, I am good at building relationships with clients, but I am also comfortable working independently with diligence. I know how to function effectively in a large team and take on a leadership role to achieve common goals together. Currently, I conduct manual tests, write automated tests in Cypress and Playwright, and diagnose client-reported issues related to the functioning of web and mobile applications.
+* [Jenkins](https://www.jenkins.io/) - The leading open source automation server <br>
+* [Figma](https://www.figma.com/) - Collaborative design tool for building meaningful products <br>
+* [Visual Studio Code](https://code.visualstudio.com/) - Fast source code editor
 * [Postman](https://www.postman.com/) - REST API Testing <br>
 * [Jira Software](https://www.atlassian.com/software/jira) - Software Development Tool <br>
 * [Trello](https://trello.com/pl) - Virtual Kanban Board <br>
@@ -17,18 +19,22 @@ My name is Bartłomiej Skorobohaty. I have been playing the violin since I was a
          - Linux <br>
          - Windows <br>
          - iOS <br>
+         - Android <br>
 * Database: <br>
          - MySQL <br>
 * Management methodologies: <br>
          - SCRUM <br>
+         - AGILE <br>
          - KANBAN <br>
 * Testing: <br>
          - Creating test cases and scenarios <br>
          - Reporting bugs <br>
          - Creating diagrams and decision tables <br>
+         - Writing automated tests <br>
 # Certificates <br>
 * [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 17613 <br>
 # Courses <br>
+* [Brass Willow](https://brasswillow.pl/szkolenia-scrum-org/professional-agile-leadership-essentials/) - Professional Agile Leadership™ - Evidence-BasedManagement <br>
 * [CODE:ME](https://codeme.pl/) - Fundamentals of Testing in Practice <br>
 * [Pasja Informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale) - Kurs MySQL <br>
 * [Udemy](https://www.udemy.com/course/cypress-od-podstaw/) - Cypress od podstaw - Automatyzacja testów <br>
