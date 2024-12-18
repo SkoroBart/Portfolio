@@ -33,6 +33,7 @@ I am an automation tester with a passion for music and photography, and proficie
          - Writing automated tests <br>
 # Certificates <br>
 * [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 17613 <br>
+* [PAL 1](https://www.credly.com/badges/04f7c1a5-3f01-46d6-b528-69a1755b5ff4/public_url) <br>
 # Courses <br>
 * [Brass Willow](https://brasswillow.pl/szkolenia-scrum-org/professional-agile-leadership-essentials/) - Professional Agile Leadership™ - Evidence-BasedManagement <br>
 * [CODE:ME](https://codeme.pl/) - Fundamentals of Testing in Practice <br>
