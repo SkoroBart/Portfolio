@@ -13,6 +13,7 @@ I am an automation tester with a passion for music and photography, and proficie
 * [ClickUp](https://clickup.com/) - Project Management Tool <br>
 * [Zeplin](https://zeplin.io/) - An accessible workspace for non-designers <br>
 * [Cypress](https://www.cypress.io/) - Open source framework for testing, mainly E2E based on the Node.js platform <br>
+* [Playwright](https://playwright.dev/) - Framework for automated E2E testing <br>
 * DevTools <br>
 # Technological skills
 * Operating Systems: <br>
@@ -38,7 +39,9 @@ I am an automation tester with a passion for music and photography, and proficie
 * [Brass Willow](https://brasswillow.pl/szkolenia-scrum-org/professional-agile-leadership-essentials/) - Professional Agile Leadership™ - Evidence-BasedManagement <br>
 * [CODE:ME](https://codeme.pl/) - Fundamentals of Testing in Practice <br>
 * [Pasja Informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale) - Kurs MySQL <br>
-* [Udemy](https://www.udemy.com/course/cypress-od-podstaw/) - Cypress od podstaw - Automatyzacja testów <br>
+* [Udemy Cypress](https://www.udemy.com/course/cypress-od-podstaw/) - Cypress od podstaw - Automatyzacja testów <br>
+* [Udemy Playwright](https://www.udemy.com/course/playwright-from-zero-to-hero/) - Playwright od podstaw - Automatyzacja testów <br>
+* [Udemy Postman](https://www.udemy.com/course/kurs-postman/) - Postman - testowanie REST API <br>
 # Books <br>
 * Radosław Smilgin - Zawód tester <br>
 * Larry Rockoff - Język SQL <br>
