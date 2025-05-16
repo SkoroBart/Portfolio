@@ -14,6 +14,7 @@ I am an automation tester with a passion for music and photography, and proficie
 * [Zeplin](https://zeplin.io/) - An accessible workspace for non-designers <br>
 * [Cypress](https://www.cypress.io/) - Open source framework for testing, mainly E2E based on the Node.js platform <br>
 * [Playwright](https://playwright.dev/) - Framework for automated E2E testing <br>
+* [Qase](https://qase.io/) - QA Testing Platform <br>
 * DevTools <br>
 # Technological skills
 * Operating Systems: <br>
@@ -35,7 +36,9 @@ I am an automation tester with a passion for music and photography, and proficie
 # Certificates <br>
 * [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 17613 <br>
 * [PAL 1](https://www.credly.com/badges/04f7c1a5-3f01-46d6-b528-69a1755b5ff4/public_url) <br>
+* [PAL-EBM](https://www.credly.com/badges/ad2a6398-1ae1-47b2-9e42-6febc7b57d15) <br>
 # Courses <br>
+* [Amber Team](https://amberteam.pl/szkolenia/istqb/ctal-tae/) - Inżynieria Automatyzacji Testów Poziom Zaawansowany – Test Automation Engineering v.2.0 <br>
 * [Brass Willow](https://brasswillow.pl/szkolenia-scrum-org/professional-agile-leadership-essentials/) - Professional Agile Leadership™ - Evidence-BasedManagement <br>
 * [CODE:ME](https://codeme.pl/) - Fundamentals of Testing in Practice <br>
 * [Pasja Informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale) - Kurs MySQL <br>
@@ -47,9 +50,14 @@ I am an automation tester with a passion for music and photography, and proficie
 * Larry Rockoff - Język SQL <br>
 * Waldemar Szafraniec/Dorota Gabor - ABC Testowania Oprogramowania <br>
 * Marijn Haverbeke - Zrozumień JavaScript <br>
+* Daniel Kahneman - Pułapki myślenia <br>
+* Radek Kotarski - Włam się do mózgu <br>
 # Groups on Linkedin <br>
 * Software Testing & Automation <br>
 * Testerzy <br>
+* Testing Ground - Ogólnopolska Społeczność Testerów i QA <br>
+* Software tester group <br>
+* Software Testing & Automation
 # Recommended blogs <br>
 * [https://miroslawzelent.pl/](https://miroslawzelent.pl/) <br>
 * [https://testuj.pl/](https://testuj.pl/) <br>
