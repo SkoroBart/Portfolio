@@ -3,6 +3,7 @@ My Tester's Portfolio
 # About Me
 I am an automation tester with a passion for music and photography, and proficiency in using various types of software. In the company where I currently work, I independently created a test approach system and developed automated test implementations from scratch. Thanks to my interpersonal skills, I am good at building relationships with clients, but I am also comfortable working independently with diligence. I know how to function effectively in a large team and take on a leadership role to achieve common goals together. Currently, I conduct manual tests, write automated tests in Cypress and Playwright, and diagnose client-reported issues related to the functioning of web and mobile applications.
 * [Jenkins](https://www.jenkins.io/) - The leading open source automation server <br>
+* [Code Magic](https://codemagic.io/) - One tool for all your mobile app builds. Test, build and release with ease <br>
 * [Figma](https://www.figma.com/) - Collaborative design tool for building meaningful products <br>
 * [Visual Studio Code](https://code.visualstudio.com/) - Fast source code editor
 * [Postman](https://www.postman.com/) - REST API Testing <br>
@@ -33,6 +34,7 @@ I am an automation tester with a passion for music and photography, and proficie
          - Reporting bugs <br>
          - Creating diagrams and decision tables <br>
          - Writing automated tests <br>
+         - Build frameworks from sctratch <br>
 # Certificates <br>
 * [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 17613 <br>
 * [PAL 1](https://www.credly.com/badges/04f7c1a5-3f01-46d6-b528-69a1755b5ff4/public_url) <br>
