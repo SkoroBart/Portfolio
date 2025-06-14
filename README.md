@@ -36,7 +36,8 @@ I am an automation tester with a passion for music and photography, and proficie
          - Writing automated tests <br>
          - Build frameworks from sctratch <br>
 # Certificates <br>
-* [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 17613 <br>
+* [ISTQB CTFL](https://www.istqb.org/) - No. 17613 <br>
+* [ISTQB ALTAE2](https://www.istqb.org/) - No. 00008 <br>
 * [PAL 1](https://www.credly.com/badges/04f7c1a5-3f01-46d6-b528-69a1755b5ff4/public_url) <br>
 * [PAL-EBM](https://www.credly.com/badges/ad2a6398-1ae1-47b2-9e42-6febc7b57d15) <br>
 # Courses <br>
